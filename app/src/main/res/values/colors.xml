@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FFFAFAFA</color>
+    <color name="white">#FFF0F0F0</color>
+    <color name="golgelik">#FF0000</color>
+    <color name="colorNavi">#676767</color>
 </resources>
